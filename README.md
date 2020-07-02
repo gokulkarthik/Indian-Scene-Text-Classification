@@ -61,7 +61,7 @@ As there are high similarities among the characters of `Tamil & Malayalam` and `
 **Code:** [Language-Classification.ipynb](../master/Language-Classification.ipynb)
 
 ### Related Links:
-1. [Indian Signbard Translation Project](https://ai4bharat.org/articles/sign-board)
+1. [Indian Signboard Translation Project](https://ai4bharat.org/articles/sign-board)
 2. [Indian Scene Text Dataset](https://github.com/GokulKarthik/Indian-Scene-Text-Dataset)
 3. [Indian Scene Text Detection](https://github.com/GokulKarthik/Indian-Scene-Text-Detection)
 4. [Indian Scene Text Classification](https://github.com/GokulKarthik/Indian-Scene-Text-Classification)
