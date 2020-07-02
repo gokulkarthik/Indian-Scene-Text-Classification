@@ -47,13 +47,13 @@ The lowest validation loss is observed in epoch 24. Hence, the model [`Models/La
 |:-------------:|:-----------:|:------------:|
 |0.99564        |0.957        |0.957         |
 
-Check for the language confusion matrix below:
+Check for the language confusion matrix of the testset below:
 
 ![Confusion Matrix](../master/Images/Confusion-Matrix.png) 
 
 As there are high similarities among the characters of `Tamil & Malayalam` and `Hindi & Punjabi` over other language pairs, there are many misclassfications among these pairs.
 
-**Miscalssification Samples:**
+**Miscalssification Samples in Testset:**
 
 ![Misclassification](../master/Images/Misclassification-3.png) 
 
