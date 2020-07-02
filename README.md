@@ -19,7 +19,7 @@ Indian Signboard Translation  involves 4 modular tasks:
 
 # Model
 A modifed version of Convolutional Recurrent Neural Network Model ([CRNN](https://arxiv.org/pdf/1507.05717v1.pdf)) is used to architect the classification model.
-The model uses resnet-18 as the feature extractor of images (initialised with pretrained weights on ImageNet). Then the bidirectional gated recurrent units are used to learn from the spatially sequential output of the former CNN part. Finally, a linear output layer is used to classify the language taking flattened input for the sequential faeture output of the RNN part.
+The model uses resnet-18 as the feature extractor of images (initialised with pretrained weights on ImageNet). Then the bidirectional gated recurrent units are used to learn from the spatially sequential output of the former CNN part. Finally, a linear output layer is used to classify the language taking flattened input from the sequential faetures output of the RNN part.
 
 * Input Image Shape: [200, 50]
 * CNN Output Shape: [13, 256]
