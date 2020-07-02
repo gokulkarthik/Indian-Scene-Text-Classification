@@ -27,7 +27,7 @@ The model uses resnet-18 as the feature extractor of images (initialised with pr
 * Linear Output Shape: [5]
 
 # Training
-The classification model is trained for 30 epochs with the following hyperpararmeters. The model weights are saved for every 3 epochs and you can find them in the [`Models`](../master/Models/) directory
+The classification model is trained for 30 epochs with the following hyperpararmeters. The model weights are saved every 3 epochs and you can find them in the [`Models`](../master/Models/) directory
 
 * train_batch_size = 64
 * lr = 0.0001
