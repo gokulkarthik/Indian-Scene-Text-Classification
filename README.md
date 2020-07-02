@@ -53,7 +53,7 @@ Check for the language confusion matrix of the testset below:
 
 As there are high similarities among the characters of `Tamil & Malayalam` and `Hindi & Punjabi` over other language pairs, there are many misclassfications among these pairs.
 
-**Miscalssification Samples in Testset:**
+**Misclassification Samples in Testset:**
 
 ![Misclassification](../master/Images/Misclassification-3.png) 
 
