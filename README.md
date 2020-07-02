@@ -58,7 +58,9 @@ As there are high similarities among the characters of `Tamil & Malayalam` and `
 ![Misclassification](../master/Images/Misclassification-3.png) 
 
 
-**Code:** [Language-Classification.ipynb](../master/Language-Classification.ipynb)
+# Code
+* [Language-Classification.ipynb](../master/Language-Classification.ipynb)
+
 
 ### Related Links:
 1. [Indian Signboard Translation Project](https://ai4bharat.org/articles/sign-board)
