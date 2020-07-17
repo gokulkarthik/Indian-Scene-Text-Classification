@@ -45,7 +45,7 @@ The lowest validation loss is observed in epoch 24. Hence, the model [`Models/La
 
 |Train Accuracy |Val Accuracy |Test Accuracy |
 |:-------------:|:-----------:|:------------:|
-|0.99           |0.94         |0.95          |
+|0.986          |0.943        |0.956         |
 
 Check for the language confusion matrix of the testset below:
 
