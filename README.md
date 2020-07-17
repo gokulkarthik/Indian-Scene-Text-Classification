@@ -41,7 +41,7 @@ For detailed model architecture and its parameters, check the `Define model` sec
 
 
 # Performance
-The lowest validation loss is observed in epoch 12. Hence, the model [`Models/Language-Classifier-e24.pth`](../master/Models/Language-Classifier-e12.pth) is used to evaluate the classification performance. 
+The lowest validation loss is observed in epoch 12. Hence, the model [`Models/Language-Classifier-e12.pth`](../master/Models/Language-Classifier-e12.pth) is used to evaluate the classification performance. 
 
 |Train Accuracy |Val Accuracy |Test Accuracy |
 |:-------------:|:-----------:|:------------:|
