@@ -14,7 +14,7 @@ Indian Signboard Translation  involves 4 modular tasks:
 
 # Dataset
 
-[Indian Scene Text Classification Dataset](https://github.com/GokulKarthik/Indian-Scene-Text-Dataset/blob/master/README.md#d2-classification-dataset) is used to train this model
+[Indian Scene Text Classification Dataset](https://github.com/GokulKarthik/Indian-Scene-Text-Dataset/blob/master/README.md#d2-classification-dataset) is used to train this model (`D2` + `D2-English`)
 
 
 # Model
@@ -45,7 +45,7 @@ The lowest validation loss is observed in epoch 24. Hence, the model [`Models/La
 
 |Train Accuracy |Val Accuracy |Test Accuracy |
 |:-------------:|:-----------:|:------------:|
-|0.99564        |0.957        |0.957         |
+|0.99           |0.94         |0.95          |
 
 Check for the language confusion matrix of the testset below:
 
@@ -55,7 +55,7 @@ As there are high similarities among the characters of `Tamil & Malayalam` and `
 
 **Misclassification Samples in Testset:**
 
-![Misclassification](../master/Images/Misclassification-3.png) 
+![Misclassification](../master/Images/Misclassification.png) 
 
 
 # Code
