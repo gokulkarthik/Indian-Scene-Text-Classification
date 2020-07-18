@@ -35,7 +35,7 @@ The classification model is trained for 30 epochs with the following hyperpararm
 * lr_step_size = 5
 * lr_gamma = 0.9
 
-For detailed model architecture and its parameters, check the `Define model` section of the notebook [Language-Classification.ipynb](../master/Language-Classification.ipynb)
+For detailed model architecture and its parameters, check the `Define model` section of the notebook [1-Language-Classification.ipynb](../master/1-Language-Classification.ipynb)
 
 ![Training Loss](../master/Images/Training.png) 
 
